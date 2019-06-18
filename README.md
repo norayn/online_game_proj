@@ -36,3 +36,14 @@
 *  реализация ботов на стороне сервера
 *  подсчет и отображения урона от ударов
 *  чат
+
+
+Скриншоты разных этапов разработки ( /progress_in_screenshots )  
+
+![17_05_2017](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/17_05_2017.gif)
+![12_08_2017](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/12_08_2017.gif)
+![28_01_2017](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/28_01_2017.gif)
+![04_04_2017](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/04_04_2017.gif)
+![29_08_2017](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/29_08_2017.gif)
+![31_07_2016](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/31_07_2016.jpg)
+![1_08_2016_1](https://github.com/norayn/online_game_proj/blob/master/progress_in_screenshots/1_08_2016_1.jpg)
