@@ -1,0 +1,1 @@
+start love2d_092\love.exe "%cd%\editor\data"

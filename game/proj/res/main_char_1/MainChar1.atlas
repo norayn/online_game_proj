@@ -1,0 +1,117 @@
+
+MainChar1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dummy_arm_lower_far
+  rotate: false
+  xy: 109, 26
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Dummy_arm_lower_near
+  rotate: false
+  xy: 109, 26
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Dummy_arm_upper_far
+  rotate: false
+  xy: 2, 2
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Dummy_arm_upper_near
+  rotate: false
+  xy: 73, 77
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Dummy_foot_far_1
+  rotate: false
+  xy: 73, 54
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Dummy_foot_near_1
+  rotate: false
+  xy: 75, 2
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Dummy_hand_1_fistBack
+  rotate: false
+  xy: 116, 60
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Dummy_hand_2_fistPalm
+  rotate: false
+  xy: 148, 59
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Dummy_head_1
+  rotate: false
+  xy: 2, 49
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+Dummy_leg_lower_far
+  rotate: false
+  xy: 45, 6
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Dummy_leg_lower_near_1
+  rotate: false
+  xy: 154, 83
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Dummy_leg_upper_far
+  rotate: false
+  xy: 185, 86
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Dummy_leg_upper_near
+  rotate: false
+  xy: 214, 86
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Dummy_neck
+  rotate: false
+  xy: 110, 4
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Dummy_torso
+  rotate: false
+  xy: 116, 83
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dummy_waist
+  rotate: false
+  xy: 75, 23
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
